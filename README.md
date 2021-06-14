@@ -1,2 +1,2 @@
 # huffman-code
-huffman-code in C++
+c++ program for huffman-code 
